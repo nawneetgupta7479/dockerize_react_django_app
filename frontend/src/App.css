@@ -32,12 +32,13 @@ h1, h2, h3, h4, h5, p, span, strike{
   padding:40px;
 }
 
-#submit{
-  background-color: #36d9b6;
-  border-radius: 0;
-  border:0;
+#submit {
+  background-color: #7b2cbf; /* purple shade */
+  border-radius: 5px;
+  border: none;
   color: #fff;
 }
+
 
 .flex-wrapper{
   display: flex;
